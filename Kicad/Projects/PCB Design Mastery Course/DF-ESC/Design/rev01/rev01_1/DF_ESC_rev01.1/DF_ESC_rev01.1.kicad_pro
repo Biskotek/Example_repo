@@ -449,7 +449,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Raspberry Pi project example.kicad_pro",
+    "filename": "DF_ESC_rev01.1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -626,6 +626,38 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       "Root"
+    ],
+    [
+      "2d39d641-1755-4fac-b937-5451b5cb73e6",
+      "MCU"
+    ],
+    [
+      "8eade7e4-3489-4d1e-858b-007fd3cd3528",
+      "MOSFET_DRIVER"
+    ],
+    [
+      "e18f391d-a950-4552-b5d7-deca11a58772",
+      "MOSFETs"
+    ],
+    [
+      "c4f87baf-6d0d-422e-8c59-e8b56de72384",
+      "CAN"
+    ],
+    [
+      "e1cb428e-60b0-46ac-a5a5-bfd6d9fdfa40",
+      "FILTERS"
+    ],
+    [
+      "e8c5ee94-aa59-42e7-acc5-fdd02c6d3892",
+      "OVERVIEW"
+    ],
+    [
+      "a4efb023-b7f6-4197-b87c-bb68f295e0af",
+      "BLOCK DIAGRAM"
+    ],
+    [
+      "a6713fc6-0bcd-4c25-9881-397688d20bb2",
+      "MECHANICAL"
     ]
   ],
   "text_variables": {}
