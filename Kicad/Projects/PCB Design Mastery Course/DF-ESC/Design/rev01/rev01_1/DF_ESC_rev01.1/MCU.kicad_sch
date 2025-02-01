@@ -5750,13 +5750,14 @@
 		)
 		(uuid "7490203e-b028-4350-b9a0-06cef546684e")
 	)
-	(text "MCU"
+	(text "[02] - ${SHEETNAME}"
 		(exclude_from_sim no)
 		(at 139.7 26.67 0)
 		(effects
 			(font
-				(size 12.7 12.7)
-				(thickness 1.5875)
+				(size 6 6)
+				(thickness 1.2)
+				(bold yes)
 			)
 		)
 		(uuid "aeded49a-24b2-4be7-a49d-6ba558562fa7")
